@@ -1,6 +1,8 @@
-# i_am_rich
+# Re:Zero Gallery
 
-A new Flutter project. Learn how to build an app . I Am Rich.
+A new Flutter project. Learn how to build an app . 
+
+Show Some Stuffs about Re:Zero
 
 ## Getting Started
 
